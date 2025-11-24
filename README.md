@@ -5,7 +5,7 @@
 A simple Flask web server demonstrating basic HTTP GET endpoints with plain text responses. This tutorial project showcases fundamental Flask routing patterns and server configuration.
 
 ## Prerequisites
-
+adding things in read me file
 - Python 3.12.3 or higher
 - pip (Python package installer)
 
